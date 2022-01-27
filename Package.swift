@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "MarqueeText",
+    name: "MarqueeText-local",
     platforms: [
         SupportedPlatform.iOS(.v13),
         SupportedPlatform.macOS(.v10_15),
