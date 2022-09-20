@@ -7,9 +7,7 @@ let package = Package(
     name: "MarqueeText",
     platforms: [
         SupportedPlatform.iOS(.v14),
-        SupportedPlatform.macOS(.v10_15),
         SupportedPlatform.watchOS(.v7),
-        SupportedPlatform.tvOS(.v14)
 
     ],
     products: [
